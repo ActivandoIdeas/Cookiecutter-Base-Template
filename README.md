@@ -65,7 +65,7 @@ git clone https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
 This command generate a simple code structure for hello {your name}
 
 ```Bash
-https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
+cookiecutter https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
 ```
 
 The purpose is that you could know how it works the template structure
