@@ -44,6 +44,7 @@ pip install --user cookiecutter
 
 * **cookiecutter.son** (Configuration CLI for your template)
 * **hooks** (Automatize taks for generate your template)
+* **{{cookiecutter.project_slug}}** (Add your codebase project)
 
 See more info here:
 
