@@ -26,7 +26,7 @@
 
 ## Development tools
 
-- Pycharm|
+- Pycharm
 - Travis
 
 # Prerequisites
@@ -50,6 +50,21 @@ See more info here:
 
 https://github.com/cookiecutter/cookiecutter
 
+## Execute this template
+
+This command generate a simple code structure for hello {your name}
+
+```Bash
+cookiecutter https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
+```
+
+The purpose is that you could know how it works the template structure
+
+You will see something like this:
+
+<div align="center">
+    <img src="img/1.png"/>
+</div>
 
 ## How to use
 
@@ -60,16 +75,6 @@ git clone https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
 ```
 
 * Customize generating your template
-
-## Execute this template
-
-This command generate a simple code structure for hello {your name}
-
-```Bash
-cookiecutter https://github.com/ActivandoIdeas/Cookiecutter-Base-Template.git
-```
-
-The purpose is that you could know how it works the template structure
 
 # License
 
